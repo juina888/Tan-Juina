@@ -12,7 +12,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://github.com/juina888/Tan-Juina/raw/main/1111-2326_small.jpg)
+![alt text](https://raw.githubusercontent.com/juina888/Tan-Juina/main/pic_small.jpg)
 
 <!-- Add your details -->
 
